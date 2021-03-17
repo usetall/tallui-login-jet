@@ -1,2 +1,2 @@
-# tallui-login-jet
-TallUI Login and Auth for Laravel Jetstream
+# TallUI Login for Jetstream
+W-I-P - TallUI Login and Auth for Laravel Jetstream
